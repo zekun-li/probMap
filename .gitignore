@@ -1,0 +1,9 @@
+*.hdf5
+*.csv
+*.pkl
+*.jpg
+*.tar
+*.py~
+*.sh~
+sub_maps_masks/
+train_val_split/
